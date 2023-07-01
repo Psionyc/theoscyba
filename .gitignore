@@ -4,6 +4,7 @@
 .nitro
 .cache
 dist
+.ouput.zip
 
 # Node dependencies
 node_modules
