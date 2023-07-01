@@ -17,10 +17,12 @@
     "tailwindcss": "^3.3.2"
   },
   "dependencies": {
+    "@prisma/client": "^4.16.2",
     "@types/three": "^0.152.1",
     "@vuelidate/core": "^2.0.2",
     "@vuelidate/validators": "^2.0.2",
     "mitt": "^3.0.0",
+    "prisma": "^4.16.2",
     "tailwind-fun": "^0.2.0",
     "three": "^0.153.0"
   }

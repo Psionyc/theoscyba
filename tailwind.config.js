@@ -9,8 +9,13 @@ module.exports = {
     "./app.vue",
   ],
   theme: {
+    screens: {
+      'sm': '640px',
+      'md': '1024px',
+    },
     extend: {
-      colors:{
+
+      colors: {
         "background": "#08081F",
         "button-background": "#383DFB",
       },
